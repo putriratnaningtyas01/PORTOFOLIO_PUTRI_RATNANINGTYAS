@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+    <defs>
+        <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#2563eb" />
+            <stop offset="100%" stop-color="#8b5cf6" />
+        </linearGradient>
+    </defs>
+    <rect width="128" height="128" rx="36" fill="url(#bg-grad)" />
+    <text x="50%" y="65%" 
+          font-family="system-ui, -apple-system, 'Outfit', sans-serif" 
+          font-size="64" 
+          font-weight="800" 
+          fill="#ffffff" 
+          text-anchor="middle" 
+          dominant-baseline="middle" 
+          letter-spacing="-2">PR</text>
+</svg>
